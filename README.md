@@ -27,7 +27,7 @@ Gemas agregadas a Rails:
 Clonar el proyecto
 
 ```bash
-  git clone 
+  git clone git@github.com:emersonxinay/pago_stripe.git
 ```
 
 Ir al directorio del proyecto
