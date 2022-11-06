@@ -1,8 +1,8 @@
 # Editorial App
 
-Aplicación que construiremos a lo largo del curso de **Integración de Pagos en Rails con Stripe** en Código Facilito.
+Aplicación  **Integración de Pagos en Rails con Stripe**
 
-Esta es la primera versión de la app, la que será la base para los mini proyectos del curso.
+Esta es la primera versión de la app, la que será la base para los mini proyectos futuros.
 En esta versión, tenemos una lista de artículos, los cuáles pueden ser públicos o privados. Los artículos privados por defecto no se pueden leer, pero si inicias sesión tienes acceso a estos artículos.
 
 ## Tech Stack
@@ -27,7 +27,7 @@ Gemas agregadas a Rails:
 Clonar el proyecto
 
 ```bash
-  git clone git@github.com:KattyaCuevas/rails-stripe.git
+  git clone 
 ```
 
 Ir al directorio del proyecto
